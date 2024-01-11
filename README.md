@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/md-abubakar" target="blank"><img align="center" src="https://www.linkedin.com/in/md-abubakar/" alt="md-abubakar" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/md-abubakar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-abubakar" height="30" width="40" /></a>
 <a href="https://dribbble.com/allgraphicstore" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="allgraphicstore" height="30" width="40" /></a>
 <a href="https://www.behance.net/mdabubakar7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="mdabubakar7" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/mdabu_121" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mdabu_121" height="30" width="40" /></a>
