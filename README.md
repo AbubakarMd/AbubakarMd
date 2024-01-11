@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Md Abubakar</h1>
 <h3 align="center">A passionate Website developer from India</h3>
 
-- 🔭 I’m currently working on **IRCTC clone website**
-
 - 🌱 I’m currently learning **React, Node, Angular**
 
 - 👯 I’m looking to collaborate on **Facebook clone**
